@@ -11,3 +11,6 @@ https://github.com/eastman-ki/team4
 
 승현님
 https://github.com/djatmdgus/team4
+
+강모님
+https://github.com/123KANGMO/team4
